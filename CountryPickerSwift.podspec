@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: CountryCode Picker
                        DESC
 
-  s.homepage         = 'https://https://github.com/valic/CountryCode'
+  s.homepage         = 'https://github.com/valic/CountryCode'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'valic' => 'valic.my@gmail.com' }
   s.source           = { :git => 'https://github.com/valic/CountryCode.git', :tag => s.version.to_s }
